@@ -7,8 +7,8 @@ TypeScript Class to retrieve intent from the Machine Learning LUIS engine by pas
 To download and install this repository:
 
 ```shell
-git clone https://github.com/.../....git
-cd .../
+git clone https://github.com/anilpark/intent-retriever.git
+cd intent-retriever/
 npm install
 ```
 
