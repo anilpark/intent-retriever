@@ -12,6 +12,14 @@ cd intent-retriever/
 npm install
 ```
 
+### Setup
+
+```shell
+npm setup
+```
+
+This will create .env file where you can replace example variables with yours
+
 ### Building
 
 To start the project:

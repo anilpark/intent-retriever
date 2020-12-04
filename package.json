@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha --require ts-node/register --watch-extensions ts,tsx \"test/**/*.{ts,tsx}\" [...args]",
+    "setup": "node setup.js",
     "start": "ts-node index.ts"
   },
   "keywords": [],

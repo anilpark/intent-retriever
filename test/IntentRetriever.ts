@@ -1,5 +1,5 @@
 import {IntentRetriever} from '../IntentRetriever'
-import {ResponseType} from "../types/response-type";
+import {ResponseType} from '../types/response-type'
 import {expect} from 'chai'
 import sinon = require('sinon')
 
