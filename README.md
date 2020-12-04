@@ -15,7 +15,7 @@ npm install
 ### Setup
 
 ```shell
-npm setup
+npm run setup
 ```
 
 This will create .env file where you can replace example variables with yours
